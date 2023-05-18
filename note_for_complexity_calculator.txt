@@ -1,0 +1,16 @@
+kí hiệu là O(f(n))
+
+có các kiểu thuật toán :
+
+1. O(1) : Manthematical formulas that just calculate an answer
+    - Các công thức toán học chỉ cần tính toán một câu trả lời
+
+2. O(log n) : Binary search : nhị phân
+    - dùng kiểu căn bậc 2, nhị phân
+
+3. O(n): reading in n items of input
+         iterating through an array or list of n elements
+        - dùng vòng lặp n lần trong input hoặc có n phẩn tử trong list
+4.  O(n log n)
+5. O(n ^ 2)
+O(2 ^ n)        
